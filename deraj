@@ -2,3 +2,4 @@ def deeraj():
   pass
  v= "im checking"
  s= "im again checking"
+ k = "this is second checking"
